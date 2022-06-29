@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Theclassicalguy
 - 👀 I’m interested in HTML,Western Classical Music, Piano.
-- 🌱 I’m currently learning HTML
+- 🌱 Ive learnt HTML, and now im learning bootstrap
 
 <!---
 Theclassicalguy/Theclassicalguy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
